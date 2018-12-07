@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ''
+title: '$group aggregate stage'
 published: true
 ---
 **$group**
